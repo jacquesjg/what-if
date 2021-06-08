@@ -62,3 +62,4 @@ So, for example, if Julio weighs 128 lbs. on earth, then he would weigh just und
 This is a classic interview question. Write a program that asks the user for a number. If the number is divisible by 3, the program logs "fizz". If the number is divisible by 5, log "buzz". If the number is divisible by 3 and 5, log "fizzbuzz".
 
 ##
+ 
